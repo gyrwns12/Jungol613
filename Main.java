@@ -1,8 +1,6 @@
-package structure;
-
 import java.util.Scanner;
 
-public class Ex613 {
+public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String name = sc.next();
